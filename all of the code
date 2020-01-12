@@ -1,0 +1,29 @@
+user = input("what is the password")
+if user == "UK2005":
+  print("https://repl.it/repls/WhimsicalDearOpengl")
+else:
+  print("I am sorry, the database does not have the name " + user + "." + " please go to the website to add your name")
+  
+  user = input("what is the password")
+if user == "USA2007":
+  print("https://repl.it/repls/SandybrownUsefulBackticks")
+else:
+  print("I am sorry, the database does not have the name " + user + "." + " please go to the website to add your name")
+  
+  user = input("what is the password")
+if user == "RUSSIA2012":
+  print("https://repl.it/repls/SnoopyAmusingFilename")
+else:
+  print("I am sorry, the database does not have the name " + user + "." + " please go to the website to add your name")
+  
+  user = input("what is the password")
+if user == "IRAN2015":
+  print("https://repl.it/repls/WideeyedSeparateVisitors")
+else:
+  print("I am sorry, the database does not have the name " + user + "." + " please go to the website to add your name")
+  
+  user = input("what is the password")
+if user == "AWMANWW3":
+  print("Gmail:bob123,SSN:037836273,Bank:1234567890123457")
+else:
+  print("https://www.youtube.com/watch?v=Evhas5uyXC0")
